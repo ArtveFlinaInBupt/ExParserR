@@ -1,6 +1,6 @@
 # ExParser
 
-> Expression Parser – LL(1)
+> Expression Parser – LR(1)
 
 这是一份北京邮电大学计算机科学与技术专业 2021 级大三上（2023–2024 学年度秋季学期）《编译原理与技术》课程实验。
 
