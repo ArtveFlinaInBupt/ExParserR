@@ -1,0 +1,9 @@
+version = 1
+
+test_patterns = [
+  "src/**",
+  "CMakeLists.txt"
+]
+
+[[analyzers]]
+name = "cxx"
